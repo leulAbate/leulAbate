@@ -12,4 +12,4 @@ I learned a lot during this project, and I enjoyed using HTML and CSS to build t
 
 If you have any feedback or suggestions for improvement, please don't hesitate to contact me. Thank you for visiting my website!
 
-Check out my portfolio website [here](http://127.0.0.1:5500/web.html).
+Check out my portfolio website [here](https://portfolio.leulabate1.repl.co/).
